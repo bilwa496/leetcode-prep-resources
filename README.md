@@ -1,1 +1,1 @@
-# leetcode-prep-resources
+# interview-prep-resources
